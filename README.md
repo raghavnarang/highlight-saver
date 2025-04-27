@@ -12,3 +12,7 @@
 
 ## Collaborator
 - ChatGPT
+
+### Support
+- Email: raghavvnarang@gmail.com
+- Linkedin: https://www.linkedin.com/in/raghav-narang/

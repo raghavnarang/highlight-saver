@@ -1,0 +1,12 @@
+#highlight-save-popup {
+  position: absolute;
+  background-color: #007bff;
+  color: white;
+  padding: 8px 12px;
+  border-radius: 6px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3);
+  font-size: 14px;
+  cursor: pointer;
+  z-index: 10000;
+  user-select: none;
+}

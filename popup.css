@@ -1,0 +1,53 @@
+body {
+  font-family: Arial, sans-serif;
+  width: 300px;
+  padding: 10px;
+}
+
+h1 {
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
+#highlight-list {
+  max-height: 300px;
+  overflow-y: auto;
+}
+
+.highlight-item {
+  background: #f1f1f1;
+  margin-bottom: 8px;
+  padding: 8px;
+  border-radius: 6px;
+}
+
+.delete-btn {
+  background: #dc3545;
+  color: white;
+  border: none;
+  padding: 4px 8px;
+  margin-top: 5px;
+  cursor: pointer;
+  font-size: 12px;
+}
+
+#summarize-btn {
+  margin-top: 15px;
+  width: 100%;
+  background: #007bff;
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+#summarize-btn:disabled {
+  opacity: 0.5;
+  cursor: default;
+}
+
+#summary {
+  margin-top: 10px;
+  font-style: italic;
+}
